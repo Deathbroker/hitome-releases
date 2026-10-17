@@ -36,6 +36,7 @@ l'APK.
 
 Installation : ouvrir l'APK téléchargé et autoriser l'installation depuis
 le navigateur ou le gestionnaire de fichiers quand Android le demande.
+
 ### Windows (`Hitome-Windows-…`)
 
 Bientôt disponible.
