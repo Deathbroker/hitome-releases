@@ -1,9 +1,14 @@
 # Hitome TV — Téléchargements
 
-Lecteur IPTV (Xtream) : séries, films, favoris et « Reprendre » synchronisés
+Lecteur multimédia pour l'API Xtream : séries, films, favoris et « Reprendre » synchronisés
 entre la TV, le téléphone et le PC avec un seul compte.
 
-➡️ **[Télécharger la dernière version](https://github.com/yokai-production/hitome-releases/releases)**
+> **Hitome TV ne fournit aucun contenu** : ni chaînes, ni films, ni séries,
+> ni playlists. C'est uniquement un lecteur : chaque utilisateur y saisit les
+> identifiants de son propre abonnement, auprès du fournisseur de son choix,
+> et reste responsable de la légalité de ce qu'il regarde.
+
+➡️ **[Télécharger la dernière version](https://github.com/Deathbroker/hitome-releases/releases)**
 
 Chaque version est publiée dans l'onglet **Releases**, avec les fichiers à
 télécharger en bas de la page (rubrique « Assets »). Les versions marquées
