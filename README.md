@@ -29,8 +29,13 @@ l'APK.
 
 ### Android téléphone / tablette (`Hitome-Mobile-…`)
 
-Bientôt disponible.
+| Fichier | Appareils |
+|---|---|
+| `…-arm64-v8a.apk` | **Presque tous les téléphones et tablettes** (Android 8 ou plus récent) |
+| `…-armeabi-v7a.apk` | Seulement les appareils anciens en 32 bits, si l'autre ne s'installe pas |
 
+Installation : ouvrir l'APK téléchargé et autoriser l'installation depuis
+le navigateur ou le gestionnaire de fichiers quand Android le demande.
 ### Windows (`Hitome-Windows-…`)
 
 Bientôt disponible.
