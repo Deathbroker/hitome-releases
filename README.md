@@ -8,11 +8,11 @@ entre la TV, le téléphone et le PC avec un seul compte.
 > identifiants de son propre abonnement, auprès du fournisseur de son choix,
 > et reste responsable de la légalité de ce qu'il regarde.
 
-➡️ **[Télécharger la dernière version](https://github.com/Deathbroker/hitome-releases/releases)**
+➡️ **[Télécharger la dernière version](https://github.com/YokaiProd/hitome-releases/releases)**
 
 Chaque version est publiée dans l'onglet **Releases**, avec les fichiers à
-télécharger en bas de la page (rubrique « Assets »). Les versions marquées
-**Pre-release** sont des bêtas : nouveautés à tester, possibles bugs.
+télécharger en bas de la page (rubrique « Assets »). Versions bêta (nouveautés à tester,
+possibles bugs) : **[YokaiProd/hitome-releases-beta](https://github.com/YokaiProd/hitome-releases-beta/releases)**.
 
 ## Quel fichier choisir ?
 
@@ -20,8 +20,9 @@ télécharger en bas de la page (rubrique « Assets »). Les versions marquées
 
 | Fichier | Appareils |
 |---|---|
-| `…-armeabi-v7a.apk` | **En cas de doute.** Chromecast avec Google TV, Mi Box, la plupart des téléviseurs et box TV |
-| `…-arm64-v8a.apk` | Nvidia Shield, TV et box récentes en 64 bits |
+| `…-universal.apk` | **En cas de doute** (à partir de la version 1.1) : s'installe sur toutes les TV et choisit seul la bonne version |
+| `…-armeabi-v7a.apk` | Plus léger. Chromecast avec Google TV, Mi Box, la plupart des téléviseurs et box TV (système 32 bits) |
+| `…-arm64-v8a.apk` | Plus léger. Nvidia Shield, TV et box récentes à système 64 bits (refusé avec « Application non installée » sur un système 32 bits) |
 
 Installation : activer « Sources inconnues » pour l'appli qui ouvre le
 fichier (par ex. *Downloader* ou un gestionnaire de fichiers), puis ouvrir
